@@ -1,0 +1,86 @@
+[
+  {
+    "id": "generated-1775840362692",
+    "type": "不定积分",
+    "title": "计算不定积分\\(\\int \\frac{1}{2 + \\sin x + \\cos x} dx\\)",
+    "signature": "1 2 x x dx",
+    "createdAt": "2026-04-10T16:59:22.693Z"
+  },
+  {
+    "id": "generated-1775840523413",
+    "type": "不定积分",
+    "title": "计算不定积分（换元/对数指数型）",
+    "signature": "int frac x e x sqrt e x 1 dx",
+    "createdAt": "2026-04-10T17:02:03.413Z"
+  },
+  {
+    "id": "generated-1775840615248",
+    "type": "不定积分",
+    "title": "计算不定积分\\(\\int x \\cos^2 x \\, dx\\)",
+    "signature": "int x cos 2 x dx",
+    "createdAt": "2026-04-10T17:03:35.248Z"
+  },
+  {
+    "id": "generated-1775840751969",
+    "type": "定积分",
+    "title": "定积分计算（指数与有理式组合）",
+    "signature": "计算定积分 int 0 1 frac e x x 2 1 x 1 2 dx",
+    "createdAt": "2026-04-10T17:05:51.969Z"
+  },
+  {
+    "id": "generated-1775840913320",
+    "type": "定积分",
+    "title": "定积分计算（根式配方型）",
+    "signature": "计算定积分 int 0 2 x sqrt 2x x 2 dx",
+    "createdAt": "2026-04-10T17:08:33.320Z"
+  },
+  {
+    "id": "generated-1775841094410",
+    "type": "定积分",
+    "title": "定积分计算（根式配方对称型）",
+    "signature": "计算定积分 int 0 1 x 1 sqrt x x 2 dx",
+    "createdAt": "2026-04-10T17:11:34.410Z"
+  },
+  {
+    "id": "generated-1775841361098",
+    "type": "不定积分",
+    "title": "计算不定积分（三角有理式型）",
+    "signature": "计算不定积分 int frac cos 2 x sin x cos x dx",
+    "createdAt": "2026-04-10T17:16:01.098Z"
+  },
+  {
+    "id": "generated-1775841696806",
+    "type": "不定积分",
+    "title": "计算不定积分（根式代换/有理化型）",
+    "signature": "计算不定积分 int sqrt frac x x 1 dx",
+    "createdAt": "2026-04-10T17:21:36.806Z"
+  },
+  {
+    "id": "generated-1775841816477",
+    "type": "不定积分",
+    "title": "计算不定积分（分部/三角混合型）",
+    "signature": "int x tan 2 x dx",
+    "createdAt": "2026-04-10T17:23:36.477Z"
+  },
+  {
+    "id": "generated-1775842737532",
+    "type": "不定积分",
+    "title": "计算不定积分（换元/对数根式型）",
+    "signature": "int frac ln 2 x x sqrt 1 ln x dx",
+    "createdAt": "2026-04-10T17:38:57.533Z"
+  },
+  {
+    "id": "generated-1775843330501",
+    "type": "不定积分",
+    "title": "计算不定积分（三角有理式万能代换型）",
+    "signature": "int frac 1 2 sin x 2 cos x dx",
+    "createdAt": "2026-04-10T17:48:50.502Z"
+  },
+  {
+    "id": "generated-1775843465150",
+    "type": "不定积分",
+    "title": "计算不定积分（换元分部结合型）",
+    "signature": "int frac ln x 1 ln x 2 dx",
+    "createdAt": "2026-04-10T17:51:05.151Z"
+  }
+]
